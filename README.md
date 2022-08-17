@@ -11,12 +11,31 @@ The branching strategy used in all the projects will have the following branches
 These branches allows for development of all the projects in there respective repositories.
 
 # Project and Repository Structure
-
-
+* Tabular View
+  * Status
+  * Due Dates
+  * Effort
+  * Sprint
+  * Mile Stones
+  * Labels
+  
+* Kanban Board
+  * Based on the Kanban Board from Taiichi Ohno.
+ 
+* Sprint View
+   * Shows the sprint of what is done/needs to be done.
+* Linked Assessment View
+   * Shows the Assessment linked to a task.
+* Status View
+   * Shows the status of what is done/needs to be done.
+* My View (Customised View) 
+   * Shows the a view listed by due dates, with sprints, status 
+   
 # List of Repositories Created (including LINKS)
 
 #### Project 1
-*
+* https://github.com/users/Koosbliksem1505/projects/1
+* https://github.com/Koosbliksem1505/CMPG-323-Overview---34895922
 #### Project 2 
 *
 #### Project 3
