@@ -65,3 +65,20 @@ gitignore file tells Git which files to ignore when committing your project to t
 
 # Storage of Credentials and Sensitive Information
 All Cridentials/Sensitive Infromation will be stored exterally from the repository. The information will be requested when needed.
+
+# Refrences
+#### Project 1
+* https://github.com/users/JacquiM/projects/16
+* https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+* https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+
+#### Project 2 
+*
+#### Project 3
+*
+#### Project 4
+*
+#### Project 5
+*
+#### Exam POE
+*
