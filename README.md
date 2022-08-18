@@ -33,16 +33,16 @@ These branches allows for development of all the projects in there respective re
    
 # List of Repositories Created (including LINKS)
 
-#### Project 1
+#### Project 1 : Agile & Scrum (Git & Github)
 * https://github.com/users/Koosbliksem1505/projects/1
 * https://github.com/Koosbliksem1505/CMPG-323-Overview---34895922
-#### Project 2 
+#### Project 2 : API Development (ASP .net core)
 *
-#### Project 3
+#### Project 3 : Standards & Patterns in .net (Azure)
 *
-#### Project 4
+#### Project 4 : Testing & RPA (UiPath)
 *
-#### Project 5
+#### Project 5 : Reporting & Monitoring (Power BI)
 *
 #### Exam POE
 *
@@ -50,15 +50,15 @@ These branches allows for development of all the projects in there respective re
 # .gitignore Explination
 gitignore file tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of your repo.
 
-#### Project 1
+#### Project 1 
 * No need for a gitignore file within this project
 #### Project 2 
 *
 #### Project 3
 *
-#### Project 4
+#### Project 4 
 *
-#### Project 5
+#### Project 5 
 *
 #### Exam POE
 *
