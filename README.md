@@ -39,7 +39,7 @@ These branches allows for development of all the projects in there respective re
 #### Project 2 : API Development (ASP .net core)
 *https://github.com/Koosbliksem1505/CMPG-323-Project-2---34895922
 #### Project 3 : Standards & Patterns in .net (Azure)
-*
+*https://github.com/Koosbliksem1505/CMPG-323-Project-3---34895922
 #### Project 4 : Testing & RPA (UiPath)
 *
 #### Project 5 : Reporting & Monitoring (Power BI)
@@ -55,7 +55,7 @@ gitignore file tells Git which files to ignore when committing your project to t
 #### Project 2 
 *There is need for a .gitignore used for the appsetting.json file
 #### Project 3
-*
+*There is need for a .gitignore for essential files with credentials
 #### Project 4 
 *
 #### Project 5 
@@ -68,7 +68,8 @@ All Cridentials/Sensitive Infromation will be stored exterally from the reposito
 #### Project 2 
 *The storage for credentials is needed in project 2 and carefull attention was taken to not include it in any file that are added to github
 #### Project 3
-*
+*The storage for credentials is needed in project 2 and carefull attention was taken to not include it in any file that are added to github
+
 #### Project 4
 *
 #### Project 5
