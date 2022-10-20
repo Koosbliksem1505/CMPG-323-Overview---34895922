@@ -37,13 +37,13 @@ These branches allows for development of all the projects in there respective re
 * https://github.com/users/Koosbliksem1505/projects/1
 * https://github.com/Koosbliksem1505/CMPG-323-Overview---34895922
 #### Project 2 : API Development (ASP .net core)
-*https://github.com/Koosbliksem1505/CMPG-323-Project-2---34895922
+* https://github.com/Koosbliksem1505/CMPG-323-Project-2---34895922
 #### Project 3 : Standards & Patterns in .net (Azure)
-*https://github.com/Koosbliksem1505/CMPG-323-Project-3---34895922
+* https://github.com/Koosbliksem1505/CMPG-323-Project-3---34895922
 #### Project 4 : Testing & RPA (UiPath)
-*
+* https://github.com/Koosbliksem1505/CMPG-323-Project-4---34895922
 #### Project 5 : Reporting & Monitoring (Power BI)
-*
+* https://github.com/Koosbliksem1505/CMPG-232-Project-5---34895922
 #### Exam POE
 *
 
