@@ -57,9 +57,11 @@ gitignore file tells Git which files to ignore when committing your project to t
 #### Project 3
 *There is need for a .gitignore for essential files with credentials
 #### Project 4 
-*
+*There is need for a .gitignore for essential files with credentials
+
 #### Project 5 
-*
+*There is need for a .gitignore for essential files with credentials
+
 #### Exam POE
 *
 
@@ -68,12 +70,14 @@ All Cridentials/Sensitive Infromation will be stored exterally from the reposito
 #### Project 2 
 *The storage for credentials is needed in project 2 and carefull attention was taken to not include it in any file that are added to github
 #### Project 3
-*The storage for credentials is needed in project 2 and carefull attention was taken to not include it in any file that are added to github
+*The storage for credentials is needed in project 3 and carefull attention was taken to not include it in any file that are added to github
 
 #### Project 4
-*
+*The storage for credentials is needed in project 4 and carefull attention was taken to not include it in any file that are added to github
+
 #### Project 5
-*
+*The storage for credentials is needed in project 5 and carefull attention was taken to not include it in any file that are added to github
+
 #### Exam POE
 *
 
@@ -99,9 +103,42 @@ Tutorials: Create a web API with ASP.NET Core | Microsoft Docs
 • Join two entities in .NET Core, using lambda and Entity Framework Core
 • Publish an ASP.NET Core web API to Azure API Management with Visual Studio | Microsoft Docs
 #### Project 3
-*
+*Build web apps with ASP.NET Core for beginners - Learn | Microsoft Docs
+ASP.NET MVC Overview | Microsoft Docs
+Secure a .NET web app with the ASP.NET Core Identity framework - Learn | Microsoft Docs
+Design Patterns In C# .NET (c-sharpcorner.com)
+Architectural Patterns in .NET (c-sharpcorner.com)
+https://learn.microsoft.com/en-gb/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-azure-portal
+https://www.c-sharpcorner.com/article/how-to-deploy-web-app-to-azure-using-visual-studio/
+https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=08+CMPG+323+-+Design+patternc+class+15+Sept.m4v
+Lecturer videos
 #### Project 4
-*
+*https://docs.uipath.com/studio/docs/rpa-testing
+https://docs.uipath.com/studio/v2020.4/docs/application-testing
+https://www.javatpoint.com/rpa-vs-test-automation
+https://isg-one.com/articles/rpa-testing-101-a-beginner-s-guide-to-automation-testing
+https://www.xenonstack.com/insights/rpa-testing
+https://www.guru99.com/robotic-process-automation-tutorial.html
+https://www.leapwork.com/blog/test-automation-and-rpa-tools-whats-the-difference
+https://research.aimultiple.com/rpa-testing/
+https://testsigma.com/blog/rpa-vs-test-automation/
+https://www.techtarget.com/searchsoftwarequality/definition/user-acceptance-testing-UAT
+https://www.guru99.com/user-acceptance-testing.html
+https://forum.uipath.com/t/problems-with-selectors/408760
+https://docs.uipath.com/studio/docs/modern-design-experience
+https://forum.uipath.com/t/difference-between-read-range-activities-in-classic-and-modern-version/362937
+https://forum.uipath.com/t/issue-job-stopped-with-an-unexpected-exit-code-0xe0434352/230238/33
+https://docs.uipath.com/studio/docs/ui-automation
+https://www.parasoft.com/blog/automated-web-ui-testing-best-practices-challenges-tools/
+https://www.blazemeter.com/blog/ui-test-automation
+https://blogs.halodoc.io/need-for-speed-and-stability-automated-ui-tests/
+https://www.codecademy.com/article/what-is-crud
+https://www.sumologic.com/glossary/crud/
+https://docs.uipath.com/orchestrator/reference/available-operations
+https://thinkingtester.com/automating-crud-testing/
+https://www.youtube.com/watch?v=UlIoIPZccec
+https://stackoverflow.com/questions/5012497/crud-web-app-automated-testing-best-practices
+https://www.youtube.com/watch?v=WjWpBvu5lSo
 #### Project 5
 *
 #### Exam POE
